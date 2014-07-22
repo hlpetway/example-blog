@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Another Test Post For Testing"
-date: 2014-07-20 12:42:05 -0700
+date: 2014-07-21 12:42:05 -0700
 comments: true
 categories:
 ---
