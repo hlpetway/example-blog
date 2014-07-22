@@ -5,8 +5,7 @@ date: 2014-07-20 12:42:05 -0700
 comments: true
 categories:
 ---
-
-##Such Test, Many Preview
+###Such Test, Many Preview
 <p>Cliche VHS art party lomo, forage biodiesel craft beer chillwave brunch. Selvage meggings occupy church-key, Odd Future slow-carb Truffaut 3 wolf moon scenester post-ironic forage ethnic master cleanse.
 <!-- more -->
 Jean shorts DIY paleo, small batch Austin beard occupy Blue Bottle. Asymmetrical selfies Schlitz bitters paleo chia gentrify, actually ethical Vice mustache typewriter Pinterest. Whatever tote bag locavore PBR meh leggings, asymmetrical hoodie meggings beard messenger bag artisan mlkshk Pitchfork chambray. Stumptown viral squid tousled. Fanny pack Echo Park food truck banh mi church-key forage Banksy, scenester Thundercats hashtag brunch jean shorts kogi gentrify tote bag.
